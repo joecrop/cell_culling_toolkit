@@ -1,5 +1,5 @@
 # Cell Culling Toolkit
-Code for my publication titled: 'Design automation methodology for improving the variability of synthesized digital circuits operating in the sub/near-threshold regime'
+Code for my publication: [Design automation methodology for improving the variability of synthesized digital circuits operating in the sub/near-threshold regime](https://ieeexplore.ieee.org/document/6008604)
 
 
 ## Prerequisites:
